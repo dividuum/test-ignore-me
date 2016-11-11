@@ -1,0 +1,11 @@
+= Hello
+
+Hello
+
+[[https://info-beamer.com| test {{https://cdn.infobeamer.com/s/088a5d/img/hello.png}} ]]
+
+[[https://info-beamer.com|{{hello.png}}]]
+
+{{https://cdn.infobeamer.com/s/088a5d/img/hello.png}}
+
+{{hello.png}}
