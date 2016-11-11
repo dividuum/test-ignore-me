@@ -1,3 +1,5 @@
 = Hello
 
 Hello
+
+[[https://info-beamer.com|{{https://cdn.infobeamer.com/s/088a5d/img/hello.png}}]]
