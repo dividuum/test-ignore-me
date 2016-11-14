@@ -1,6 +1,6 @@
 # Foo
 
-bar
+Foo bar
 
 ## h2
 
